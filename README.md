@@ -1,7 +1,7 @@
-# Team 00 - Piscine SQL
+## _Traveling Salesman Problem_
 Implementation a quick solution on SQL to achieve results of Traveling Salesman Problem
 
-## _Traveling Salesman Problem_
+## About projrect
 
 The Traveling Salesman Problem (TSP) is a classic optimization problem in the fields of computer science and operations research. 
 
